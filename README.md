@@ -1,2 +1,2 @@
-# EMI-Calculator
-A web application that will help calculate EMI and also show payments schedule visually as well as in tabular format.
+# Machine-Learning-With-Python
+This is blog that helps people to read about how to build machine learning models from scratch using real business problems.
