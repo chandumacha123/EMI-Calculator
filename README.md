@@ -1,2 +1,2 @@
-# Machine-Learning-With-Python
-This blog helps people to read about how to build machine learning models from scratch using real business problems.
+# Resume Blog
+To build a blog to showcase my personal skills and details etc
